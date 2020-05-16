@@ -1,0 +1,43 @@
+name: thesimpleappv2
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^4.1.0
+  flutter_spinkit: ^4.1.2
+  velocity_x: ^0.3.4
+  firebase_database: ^3.1.5
+  cupertino_icons: ^0.1.2
+  cached_network_image: ^2.0.0
+  cloud_firestore: ^0.13.5
+  firebase_auth: ^0.15.2
+  google_sign_in: ^4.1.1
+  shared_preferences: ^0.5.7+1
+  random_string: ^2.0.1
+  flare_flutter: any
+  flare_dart: any
+  background_fetch: ^0.5.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - android/assets/sinchan.png
+    - android/assets/mello.png
+    - android/assets/totest1.flr
+    - android/assets/Filip.flr
+

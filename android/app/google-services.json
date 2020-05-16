@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273159178031",
+    "firebase_url": "https://thesimpleappv2.firebaseio.com",
+    "project_id": "thesimpleappv2",
+    "storage_bucket": "thesimpleappv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273159178031:android:87cbb60a93850d6c7883da",
+        "android_client_info": {
+          "package_name": "com.example.thesimpleappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273159178031-70c5oceutek84ovhrs2h3n4mvstpn690.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxKRMvinZMJS_W1BctQuSqp6V1vc4MMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273159178031-70c5oceutek84ovhrs2h3n4mvstpn690.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
